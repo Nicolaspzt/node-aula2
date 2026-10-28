@@ -18,3 +18,5 @@ const pets = [
     vacinado: true,
   },
 ];
+
+export default pets;
